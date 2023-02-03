@@ -1,6 +1,6 @@
 import React from "react";
 import '../Styles/profile.css'
-import Yo from '../Assets/Perfil.jpg'
+import Yo from '../Assets/perfil.jpg'
 
 export default function Profile() {
     return (

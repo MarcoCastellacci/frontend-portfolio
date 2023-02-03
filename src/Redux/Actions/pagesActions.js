@@ -13,8 +13,7 @@ const ProyectActions = {
                 console.log(err)
             }
         }
-    },
-    // createTecno: (tecno) => {
+    }
 }
 
 export default ProyectActions;

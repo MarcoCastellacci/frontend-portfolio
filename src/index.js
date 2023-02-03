@@ -8,7 +8,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'mdb-react-ui-kit/dist/css/mdb.min.css'
 import './Styles/index.css';
 import App from './App';
-
+// import './Firebase/firebase-config'
 
 const reduxStore = createStore({ reducer: mainReducer })
 const root = ReactDOM.createRoot(document.getElementById('root'));
